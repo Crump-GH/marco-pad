@@ -1,2 +1,2 @@
-# switch-pad
-a macropad that switch function with programs
+# Macro-pad
+A simple macro pad
