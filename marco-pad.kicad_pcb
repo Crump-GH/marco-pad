@@ -83,9 +83,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Gerber/")
 		)
 	)
 	(footprint "Display:ER_OLEDM0.91_1x-I2C"
@@ -12879,7 +12879,7 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 120.55 64.05)
+		(start 121.85 64.05)
 		(end 202.05 164.05)
 		(stroke
 			(width 0.05)

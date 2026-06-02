@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "switch-pad.kicad_pro",
+    "filename": "marco-pad.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerber/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -643,8 +643,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "switch-pad.kicad_sch",
-        "name": "Root",
+        "filename": "marco-pad.kicad_sch",
+        "name": "marco-pad",
         "uuid": "c7efea5d-7dd4-4104-b78a-de6981eba933"
       }
     ],
